@@ -1,0 +1,511 @@
+{
+  "profileImage": "url",
+  "profileDescription": "description",
+  "jobTitle": "Software Engineer",
+  "primaryColor": "0xff434343",
+  "secondaryColor": "0xffa46f23",
+  "certificates": [
+    {
+      "id": 1,
+      "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/1%20ACS.png",
+      "verificationLink": null,
+      "field": "High School"
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/2%20Robotech%20Workshop%20Certificate.png",
+      "verificationLink": null,
+      "field": "Arduino"
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/3%20Udemy%20SFML%20With%20C%2B%2B.png",
+      "verificationLink": "https://udemy-certificate.s3.amazonaws.com/pdf/UC-fe1df68d-70bf-4919-b87f-16313486bb99.pdf",
+      "field": "C++"
+    },
+    {
+      "id": 4,
+      "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/4%20Coursera%20BZTN4PCT8ZSV.png",
+      "verificationLink": "https://www.coursera.org/account/accomplishments/certificate/BZTN4PCT8ZSV",
+      "field": "flutter"
+    },
+    {
+      "id": 5,
+      "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/5%20Coursera%2074PMU7B6QZ5G.png",
+      "verificationLink": "https://www.coursera.org/account/accomplishments/certificate/74PMU7B6QZ5G",
+      "field": "flutter"
+    },
+    {
+      "id": 6,
+      "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/6%20Coursera%2036WHR2GGKFG4.png",
+      "verificationLink": "https://www.coursera.org/account/accomplishments/certificate/36WHR2GGKFG4",
+      "field": "flutter"
+    },
+    {
+      "id": 7,
+      "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/7%20Coursera%20UCAUQYZV6JUT.png",
+      "verificationLink": "https://www.coursera.org/account/accomplishments/certificate/UCAUQYZV6JUT",
+      "field": "flutter"
+    },
+    {
+      "id": 8,
+      "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/8%20Coursera%20K8GFBGVFEZ94.png",
+      "verificationLink": "https://www.coursera.org/account/accomplishments/certificate/K8GFBGVFEZ94",
+      "field": "flutter"
+    },
+    {
+      "id": 9,
+      "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/9%20Coursera%20ZWY5ENUVX7AZ.png",
+      "verificationLink": "https://www.coursera.org/account/accomplishments/certificate/ZWY5ENUVX7AZ",
+      "field": "flutter"
+    },
+    {
+      "id": 10,
+      "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/10%20Coursera%20W6YKA7CU38N5.png",
+      "verificationLink": "https://www.coursera.org/account/accomplishments/certificate/W6YKA7CU38N5",
+      "field": "flutter"
+    },
+    {
+      "id": 11,
+      "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/11%20Coursera%20XD5Y9J55RBK9.png",
+      "verificationLink": "https://www.coursera.org/account/accomplishments/certificate/XD5Y9J55RBK9",
+      "field": "flutter"
+    },
+    {
+      "id": 12,
+      "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/12%20Coursera%20A7UCMDF3DCEH.png",
+      "verificationLink": "https://www.coursera.org/account/accomplishments/certificate/A7UCMDF3DCEH",
+      "field": "flutter"
+    },
+    {
+      "id": 13,
+      "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/13%20Coursera%20YDCG8E45RKR8.png",
+      "verificationLink": "https://www.coursera.org/account/accomplishments/certificate/YDCG8E45RKR8",
+      "field": "flutter"
+    },
+    {
+      "id": 14,
+      "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/14%20Coursera%20EPAL8N29ABQ9.png",
+      "verificationLink": "https://www.coursera.org/account/accomplishments/certificate/EPAL8N29ABQ9",
+      "field": "flutter"
+    },
+    {
+      "id": 15,
+      "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/15%20Coursera%20PFKAF484D9GQ.png",
+      "verificationLink": "https://www.coursera.org/account/accomplishments/certificate/PFKAF484D9GQ",
+      "field": "flutter"
+    },
+    {
+      "id": 16,
+      "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/16%20Google%20Digital%20Garage.png",
+      "verificationLink": "https://learndigital.withgoogle.com/digitalgarage/validate-certificate-code",
+      "field": "flutter"
+    },
+    {
+      "id": 17,
+      "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/17%20Coursera%20UEEF79NEV8G2.png",
+      "verificationLink": "https://www.coursera.org/account/accomplishments/certificate/UEEF79NEV8G2",
+      "field": "flutter"
+    },
+    {
+      "id": 18,
+      "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/18%20Coursera%204C9XWRUH6TYW.png",
+      "verificationLink": "https://www.coursera.org/account/accomplishments/certificate/4C9XWRUH6TYW",
+      "field": "flutter"
+    },
+    {
+      "id": 19,
+      "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/19%20Coursera%20CRUV34EYL59A.png",
+      "verificationLink": "https://www.coursera.org/account/accomplishments/certificate/CRUV34EYL59A",
+      "field": "flutter"
+    },
+    {
+      "id": 20,
+      "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/20%20Relentless%20ProgrammersContestant467885.png",
+      "verificationLink": null,
+      "field": "flutter"
+    },
+    {
+      "id": 21,
+      "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/21%20Thirty%20Seventh%20PlaceContestant467885.png",
+      "verificationLink": null,
+      "field": "flutter"
+    },
+    {
+      "id": 22,
+      "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/22%20UC-fb29842d-3b44-46cc-a71f-28e6eb7cc840.png",
+      "verificationLink": "https://udemy-certificate.s3.amazonaws.com/pdf/UC-fb29842d-3b44-46cc-a71f-28e6eb7cc840.pdf",
+      "field": "flutter"
+    },
+    {
+      "id": 23,
+      "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/23%20UC-2aef85ea-7b13-43ce-966c-88c0f0028fb7.png",
+      "verificationLink": "https://udemy-certificate.s3.amazonaws.com/pdf/UC-2aef85ea-7b13-43ce-966c-88c0f0028fb7.pdf",
+      "field": "flutter"
+    },
+    {
+      "id": 24,
+      "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/24%20HR%20Learning%20%26%20Development%20Certificate%20CIB.png",
+      "verificationLink": null,
+      "field": "Bank Intern"
+    },
+    {
+      "id": 25,
+      "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/25%20Flutter%20Training%20IClub.png",
+      "verificationLink": null,
+      "field": "flutter"
+    },
+    {
+      "id": 26,
+      "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/26%20Introduction%20to%20Software%20Testing%20Concepts%20%26%20Techniques.png",
+      "verificationLink": "https://maharatech.gov.eg/mod/customcert/verify_certificate.php?contextid=1036&code=faBBrV943U&qrcode=1",
+      "field": "Software Testing"
+    },
+    {
+      "id": 27,
+      "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/27%20UC-24ba49bb-e9e2-4e1b-9972-52524e3d6dac.png",
+      "verificationLink": "https://udemy-certificate.s3.amazonaws.com/pdf/UC-24ba49bb-e9e2-4e1b-9972-52524e3d6dac.pdf",
+      "field": "flutter"
+    },
+    {
+      "id": 28,
+      "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/28%20ISTQB%20Foundation%20Level%20Mahara-Tech.png",
+      "verificationLink": "https://maharatech.gov.eg/mod/customcert/verify_certificate.php?contextid=1682&code=FvONPR2YSL&qrcode=1",
+      "field": "Software Testing"
+    },
+    {
+      "id": 29,
+      "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/29%20UC-781617b3-65cb-4f4d-8ede-32496a0a2c8d.png",
+      "verificationLink": "https://udemy-certificate.s3.amazonaws.com/pdf/UC-781617b3-65cb-4f4d-8ede-32496a0a2c8d.pdf",
+      "field": "php"
+    },
+    {
+      "id": 30,
+      "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/30%20DataCamp%204abf57530214266a113e09ecca8a64975b266c40.png",
+      "verificationLink": "https://www.datacamp.com/statement-of-accomplishment/course/4abf57530214266a113e09ecca8a64975b266c40",
+      "field": "Data Analysis"
+    },
+    {
+      "id": 31,
+      "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/31%20DataCamp%20a4e3f8486f8cc07150c333ea908b097e31c7b205.png",
+      "verificationLink": "https://www.datacamp.com/statement-of-accomplishment/course/a4e3f8486f8cc07150c333ea908b097e31c7b205",
+      "field": "Data Analysis"
+    },
+    {
+      "id": 32,
+      "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/32%20Bank%20Masr%20Internship%20Certificate.png",
+      "verificationLink": null,
+      "field": "Bank Intern"
+    },
+    {
+      "id": 33,
+      "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/33%20UC-72e8707c-f00a-4b43-9a6d-ffc1128f5ae1.png",
+      "verificationLink": "https://udemy-certificate.s3.amazonaws.com/pdf/UC-72e8707c-f00a-4b43-9a6d-ffc1128f5ae1.pdf",
+      "field": "Data Analysis"
+    },
+    {
+      "id": 34,
+      "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/34%20Coursera%20PQN2TN3YTH2S.png",
+      "verificationLink": "https://coursera.org/verify/PQN2TN3YTH2S",
+      "field": "Data Analysis"
+    },
+    {
+      "id": 35,
+      "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/35%20DataCamp%2063a47dff7878e752f9883996337688c696091dcc.png",
+      "verificationLink": "https://www.datacamp.com/statement-of-accomplishment/course/63a47dff7878e752f9883996337688c696091dcc",
+      "field": "Data Analysis"
+    },
+    {
+      "id": 36,
+      "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/36%20DataCamp%20d14c30b062579936a8a6b7af7a68cd8c61f6cecb.png",
+      "verificationLink": "https://www.datacamp.com/statement-of-accomplishment/course/d14c30b062579936a8a6b7af7a68cd8c61f6cecb",
+      "field": "Data Analysis"
+    },
+    {
+      "id": 37,
+      "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/37%20DataCamp%206c76691778e7cd9742433b2dcb896d7f34e8cc20.png",
+      "verificationLink": "https://www.datacamp.com/statement-of-accomplishment/course/6c76691778e7cd9742433b2dcb896d7f34e8cc20",
+      "field": "Data Analysis"
+    },
+    {
+      "id": 38,
+      "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/38%20DataCamp%2028c3a0d98a7d9d826766d111808b0abf1fab9d14.png",
+      "verificationLink": "https://www.datacamp.com/statement-of-accomplishment/course/28c3a0d98a7d9d826766d111808b0abf1fab9d14",
+      "field": "Data Analysis"
+    },
+    {
+      "id": 39,
+      "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/39%20DataCamp%20697037c30b8b22e7fb60afd16f625552482246ff.png",
+      "verificationLink": "https://www.datacamp.com/statement-of-accomplishment/course/697037c30b8b22e7fb60afd16f625552482246ff",
+      "field": "Data Analysis"
+    },
+    {
+      "id": 40,
+      "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/40%20DataCamp%206506fe6eddae236204ce2097adcb651197735bbc.png",
+      "verificationLink": "https://www.datacamp.com/statement-of-accomplishment/course/6506fe6eddae236204ce2097adcb651197735bbc",
+      "field": "Data Analysis"
+    },
+    {
+      "id": 41,
+      "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/41%20UC-21536130-4786-42cc-b8d4-fa5be9de7c2f.png",
+      "verificationLink": "https://udemy-certificate.s3.amazonaws.com/pdf/UC-21536130-4786-42cc-b8d4-fa5be9de7c2f.pdf",
+      "field": "ChatGPT"
+    },
+    {
+      "id": 42,
+      "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/42%20DataCamp%20368c081e979aa6a24e29d336b35e6abb67873c17.png",
+      "verificationLink": "https://www.datacamp.com/statement-of-accomplishment/course/368c081e979aa6a24e29d336b35e6abb67873c17",
+      "field": "Data Analysis"
+    },
+    {
+      "id": 43,
+      "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/43%20DataCamp%2032a1b0ab7a98bd452ce861b43257fa9131eff5b5.png",
+      "verificationLink": "https://www.datacamp.com/statement-of-accomplishment/track/32a1b0ab7a98bd452ce861b43257fa9131eff5b5",
+      "field": "Data Analysis"
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "projectTitle": "X & O Game",
+      "developmentDate": "2019/20/5",
+      "description": "description pla pla pla description pla pla pla description pla pla pla description pla pla pla description pla pla pla description pla pla pla description pla pla pla description pla pla pla",
+      "gitHubLink": "https://github.com/Seif-El-Deen/X-and-O-Game-using-Flutter-Tic-Tac-Toe-",
+      "playStoreLink": null,
+      "imagesUrls": [
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/X-O%20(Tic-Tac-Toe)%20Game/1.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/X-O%20(Tic-Tac-Toe)%20Game/2.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/X-O%20(Tic-Tac-Toe)%20Game/3.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/X-O%20(Tic-Tac-Toe)%20Game/4.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/X-O%20(Tic-Tac-Toe)%20Game/5.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/X-O%20(Tic-Tac-Toe)%20Game/6.jpg"
+      ]
+    },
+    {
+      "id": 2,
+      "projectTitle": "To-Do App",
+      "developmentDate": "2019/20/5",
+      "description": "description pla pla pla description pla pla pla description pla pla pla description pla pla pla description pla pla pla description pla pla pla description pla pla pla description pla pla pla",
+      "gitHubLink": "https://github.com/Seif-El-Deen/ToDo-App-Using-Flutter",
+      "playStoreLink": null,
+      "imagesUrls": [
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/ToDo/1.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/ToDo/2.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/ToDo/3.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/ToDo/4.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/ToDo/5.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/ToDo/6.jpg"
+      ]
+    },
+    {
+      "id": 3,
+      "projectTitle": "Meal App",
+      "developmentDate": "2020/20/5",
+      "description": "description pla pla pla description pla pla pla description pla pla pla description pla pla pla description pla pla pla description pla pla pla description pla pla pla description pla pla pla",
+      "gitHubLink": "https://github.com/Seif-El-Deen/Meal-App",
+      "playStoreLink": null,
+      "imagesUrls": [
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Meal%20App/1.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Meal%20App/2.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Meal%20App/3.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Meal%20App/4.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Meal%20App/5.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Meal%20App/6.jpg"
+      ]
+    },
+    {
+      "id": 4,
+      "projectTitle": "Diabetes Readings History",
+      "developmentDate": "2019/20/5",
+      "description": "description pla pla pla description pla pla pla description pla pla pla description pla pla pla description pla pla pla description pla pla pla description pla pla pla description pla pla pla",
+      "gitHubLink": "https://github.com/Seif-El-Deen/Diabetes-Readings-History",
+      "playStoreLink": null,
+      "imagesUrls": [
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Diabetes%20Readings%20History/1.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Diabetes%20Readings%20History/2.jpg"
+      ]
+    },
+    {
+      "id": 5,
+      "projectTitle": "My Bags App",
+      "developmentDate": "2019/20/5",
+      "description": "description pla pla pla description pla pla pla description pla pla pla description pla pla pla description pla pla pla description pla pla pla description pla pla pla description pla pla pla",
+      "gitHubLink": "https://github.com/Seif-El-Deen/my-bag-application",
+      "playStoreLink": "https://play.google.com/store/apps/details?id=com.my_bags.my_bag_application",
+      "imagesUrls": [
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/My%20Bag/1.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/My%20Bag/2.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/My%20Bag/3.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/My%20Bag/4.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/My%20Bag/5.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/My%20Bag/6.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/My%20Bag/7.jpg"
+      ]
+    },
+    {
+      "id": 6,
+      "projectTitle": "Coffee Shop App",
+      "developmentDate": "2019/20/5",
+      "description": "description pla pla pla description pla pla pla description pla pla pla description pla pla pla description pla pla pla description pla pla pla description pla pla pla description pla pla pla",
+      "gitHubLink": "https://github.com/Seif-El-Deen/Coffee-Shop-App",
+      "playStoreLink": null,
+      "imagesUrls": [
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Coffee%20Shop/1.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Coffee%20Shop/2.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Coffee%20Shop/3.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Coffee%20Shop/4.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Coffee%20Shop/5.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Coffee%20Shop/6.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Coffee%20Shop/7.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Coffee%20Shop/8.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Coffee%20Shop/9.jpg"
+      ]
+    },
+    {
+      "id": 7,
+      "projectTitle": "مهاراتى",
+      "developmentDate": "2019/20/5",
+      "description": "description pla pla pla description pla pla pla description pla pla pla description pla pla pla description pla pla pla description pla pla pla description pla pla pla description pla pla pla",
+      "gitHubLink": null,
+      "playStoreLink": "https://play.google.com/store/apps/details?id=com.skills.my_skills",
+      "imagesUrls": [
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/%D9%85%D9%87%D8%A7%D8%B1%D8%A7%D8%AA%D9%89/1.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/%D9%85%D9%87%D8%A7%D8%B1%D8%A7%D8%AA%D9%89/2.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/%D9%85%D9%87%D8%A7%D8%B1%D8%A7%D8%AA%D9%89/3.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/%D9%85%D9%87%D8%A7%D8%B1%D8%A7%D8%AA%D9%89/4.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/%D9%85%D9%87%D8%A7%D8%B1%D8%A7%D8%AA%D9%89/5.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/%D9%85%D9%87%D8%A7%D8%B1%D8%A7%D8%AA%D9%89/6.jpg"
+      ]
+    },
+    {
+      "id": 8,
+      "projectTitle": "Chatting App",
+      "developmentDate": "2019/20/5",
+      "description": "description pla pla pla description pla pla pla description pla pla pla description pla pla pla description pla pla pla description pla pla pla description pla pla pla description pla pla pla",
+      "gitHubLink": "https://github.com/Seif-El-Deen/Chat-App",
+      "playStoreLink": null,
+      "imagesUrls": [
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Chatting%20App/1.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Chatting%20App/2.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Chatting%20App/3.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Chatting%20App/4.jpg"
+      ]
+    },
+    {
+      "id": 9,
+      "projectTitle": "كلنا مع بعض",
+      "developmentDate": "2019/20/5",
+      "description": "description pla pla pla description pla pla pla description pla pla pla description pla pla pla description pla pla pla description pla pla pla description pla pla pla description pla pla pla",
+      "gitHubLink": null,
+      "playStoreLink": "https://play.google.com/store/apps/details?id=com.charity.we_all_with_each_other",
+      "imagesUrls": [
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/%D9%83%D9%84%D9%86%D8%A7%20%D9%85%D8%B9%20%D8%A8%D8%B9%D8%B6/1.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/%D9%83%D9%84%D9%86%D8%A7%20%D9%85%D8%B9%20%D8%A8%D8%B9%D8%B6/3.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/%D9%83%D9%84%D9%86%D8%A7%20%D9%85%D8%B9%20%D8%A8%D8%B9%D8%B6/4.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/%D9%83%D9%84%D9%86%D8%A7%20%D9%85%D8%B9%20%D8%A8%D8%B9%D8%B6/5.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/%D9%83%D9%84%D9%86%D8%A7%20%D9%85%D8%B9%20%D8%A8%D8%B9%D8%B6/6.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/%D9%83%D9%84%D9%86%D8%A7%20%D9%85%D8%B9%20%D8%A8%D8%B9%D8%B6/7.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/%D9%83%D9%84%D9%86%D8%A7%20%D9%85%D8%B9%20%D8%A8%D8%B9%D8%B6/8.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/%D9%83%D9%84%D9%86%D8%A7%20%D9%85%D8%B9%20%D8%A8%D8%B9%D8%B6/9.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/%D9%83%D9%84%D9%86%D8%A7%20%D9%85%D8%B9%20%D8%A8%D8%B9%D8%B6/10.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/%D9%83%D9%84%D9%86%D8%A7%20%D9%85%D8%B9%20%D8%A8%D8%B9%D8%B6/11.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/%D9%83%D9%84%D9%86%D8%A7%20%D9%85%D8%B9%20%D8%A8%D8%B9%D8%B6/12.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/%D9%83%D9%84%D9%86%D8%A7%20%D9%85%D8%B9%20%D8%A8%D8%B9%D8%B6/13.jpg"
+      ]
+    },
+    {
+      "id": 10,
+      "projectTitle": "Shared Ride App",
+      "developmentDate": "2019/20/5",
+      "description": "description pla pla pla description pla pla pla description pla pla pla description pla pla pla description pla pla pla description pla pla pla description pla pla pla description pla pla pla",
+      "gitHubLink": null,
+      "playStoreLink": null,
+      "imagesUrls": [
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Shared%20Ride/1.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Shared%20Ride/2.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Shared%20Ride/3.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Shared%20Ride/4.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Shared%20Ride/5.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Shared%20Ride/6.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Shared%20Ride/7.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Shared%20Ride/8.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Shared%20Ride/9.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Shared%20Ride/10.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Shared%20Ride/11.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Shared%20Ride/12.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Shared%20Ride/13.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Shared%20Ride/14.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Shared%20Ride/15.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Shared%20Ride/16.jpg"
+      ]
+    },
+    {
+      "id": 11,
+      "projectTitle": "Attendance Tracking App",
+      "developmentDate": "2019/20/5",
+      "description": "description pla pla pla description pla pla pla description pla pla pla description pla pla pla description pla pla pla description pla pla pla description pla pla pla description pla pla pla",
+      "gitHubLink": null,
+      "playStoreLink": null,
+      "imagesUrls": [
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Advance%20Attendance%20System/1.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Advance%20Attendance%20System/2.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Advance%20Attendance%20System/3.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Advance%20Attendance%20System/4.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Advance%20Attendance%20System/5.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Advance%20Attendance%20System/6.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Advance%20Attendance%20System/7.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Advance%20Attendance%20System/8.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Advance%20Attendance%20System/9.jpg"
+      ]
+    },
+    {
+      "id": 12,
+      "projectTitle": "Arabic Doulingo",
+      "developmentDate": "2019/20/5",
+      "description": "description pla pla pla description pla pla pla description pla pla pla description pla pla pla description pla pla pla description pla pla pla description pla pla pla description pla pla pla",
+      "gitHubLink": null,
+      "playStoreLink": null,
+      "imagesUrls": [
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Arabic%20Duolingo/1.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Arabic%20Duolingo/2.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Arabic%20Duolingo/3.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Arabic%20Duolingo/4.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Arabic%20Duolingo/5.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Arabic%20Duolingo/6.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Arabic%20Duolingo/7.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Arabic%20Duolingo/8.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Arabic%20Duolingo/9.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Arabic%20Duolingo/10.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Arabic%20Duolingo/11.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Arabic%20Duolingo/12.jpg"
+      ]
+    },
+    {
+      "id": 13,
+      "projectTitle": "اسمعنى",
+      "developmentDate": "2019/20/5",
+      "description": "description pla pla pla description pla pla pla description pla pla pla description pla pla pla description pla pla pla description pla pla pla description pla pla pla description pla pla pla",
+      "gitHubLink": null,
+      "playStoreLink": null,
+      "imagesUrls": [
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/%D8%A7%D8%B3%D9%85%D8%B9%D9%86%D9%89/1.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/%D8%A7%D8%B3%D9%85%D8%B9%D9%86%D9%89/2.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/%D8%A7%D8%B3%D9%85%D8%B9%D9%86%D9%89/3.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/%D8%A7%D8%B3%D9%85%D8%B9%D9%86%D9%89/4.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/%D8%A7%D8%B3%D9%85%D8%B9%D9%86%D9%89/5.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/%D8%A7%D8%B3%D9%85%D8%B9%D9%86%D9%89/6.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/%D8%A7%D8%B3%D9%85%D8%B9%D9%86%D9%89/7.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/%D8%A7%D8%B3%D9%85%D8%B9%D9%86%D9%89/8.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/%D8%A7%D8%B3%D9%85%D8%B9%D9%86%D9%89/9.jpg"
+      ]
+    }
+  ],
+  "contactsInfo": {
+    "whatsappLink": "whatsapp.com",
+    "linkedInLink": "LinkedIn.com",
+    "facebookLink": "facebook.com",
+    "gitHubLink": "github.com",
+    "telegramLink": "Telegram.com",
+    "messangerLink": "messanger.com"
+  }
+}
