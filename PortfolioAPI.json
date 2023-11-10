@@ -80,7 +80,7 @@
       "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/11%20Coursera%20XD5Y9J55RBK9.png",
       "verificationLink": "https://www.coursera.org/account/accomplishments/certificate/XD5Y9J55RBK9",
       "field": "Web Development",
-      "major": false
+      "major": true
     },
     {
       "id": 12,
@@ -94,7 +94,7 @@
       "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/13%20Coursera%20YDCG8E45RKR8.png",
       "verificationLink": "https://www.coursera.org/account/accomplishments/certificate/YDCG8E45RKR8",
       "field": "Web Development",
-      "major": false
+      "major": true
     },
     {
       "id": 14,
@@ -304,7 +304,7 @@
       "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/43%20DataCamp%2032a1b0ab7a98bd452ce861b43257fa9131eff5b5.png",
       "verificationLink": "https://www.datacamp.com/statement-of-accomplishment/track/32a1b0ab7a98bd452ce861b43257fa9131eff5b5",
       "field": "Data Analysis",
-      "major": false
+      "major": true
     },
     {
       "id": 44,
@@ -430,14 +430,14 @@
       "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/61%20DataCamp%20f5f8c14afe2bf59cc1a839b63a3ec286e249d97f.png",
       "verificationLink": "https://www.datacamp.com/statement-of-accomplishment/track/f5f8c14afe2bf59cc1a839b63a3ec286e249d97f",
       "field": "Data Analysis",
-      "major": false
+      "major": true
     },
     {
       "id": 62,
       "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/62%20ITI%20.Net%20Web%20Development.png",
       "verificationLink": null,
       "field": "C# .Net",
-      "major": false
+      "major": true
     },
     {
       "id": 63,
