@@ -9,359 +9,442 @@
       "id": 1,
       "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/1%20ACS.png",
       "verificationLink": null,
-      "field": "High School"
+      "field": "High School",
+      "major": true
     },
     {
       "id": 2,
       "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/2%20Robotech%20Workshop%20Certificate.png",
       "verificationLink": null,
-      "field": "Arduino"
+      "field": "Arduino",
+      "major": false
     },
     {
       "id": 3,
       "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/3%20Udemy%20SFML%20With%20C%2B%2B.png",
       "verificationLink": "https://udemy-certificate.s3.amazonaws.com/pdf/UC-fe1df68d-70bf-4919-b87f-16313486bb99.pdf",
-      "field": "C++"
+      "field": "C++",
+      "major": false
     },
     {
       "id": 4,
       "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/4%20Coursera%20BZTN4PCT8ZSV.png",
       "verificationLink": "https://www.coursera.org/account/accomplishments/certificate/BZTN4PCT8ZSV",
-      "field": "Web Development"
+      "field": "Web Development",
+      "major": false
     },
     {
       "id": 5,
       "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/5%20Coursera%2074PMU7B6QZ5G.png",
       "verificationLink": "https://www.coursera.org/account/accomplishments/certificate/74PMU7B6QZ5G",
-      "field": "Web Development"
+      "field": "Web Development",
+      "major": false
     },
     {
       "id": 6,
       "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/6%20Coursera%2036WHR2GGKFG4.png",
       "verificationLink": "https://www.coursera.org/account/accomplishments/certificate/36WHR2GGKFG4",
-      "field": "Web Development"
+      "field": "Web Development",
+      "major": false
     },
     {
       "id": 7,
       "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/7%20Coursera%20UCAUQYZV6JUT.png",
       "verificationLink": "https://www.coursera.org/account/accomplishments/certificate/UCAUQYZV6JUT",
-      "field": "Web Development"
+      "field": "Web Development",
+      "major": false
     },
     {
       "id": 8,
       "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/8%20Coursera%20K8GFBGVFEZ94.png",
       "verificationLink": "https://www.coursera.org/account/accomplishments/certificate/K8GFBGVFEZ94",
-      "field": "Web Development"
+      "field": "Web Development",
+      "major": false
     },
     {
       "id": 9,
       "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/9%20Coursera%20ZWY5ENUVX7AZ.png",
       "verificationLink": "https://www.coursera.org/account/accomplishments/certificate/ZWY5ENUVX7AZ",
-      "field": "Web Development"
+      "field": "Web Development",
+      "major": false
     },
     {
       "id": 10,
       "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/10%20Coursera%20W6YKA7CU38N5.png",
       "verificationLink": "https://www.coursera.org/account/accomplishments/certificate/W6YKA7CU38N5",
-      "field": "Web Development"
+      "field": "Web Development",
+      "major": false
     },
     {
       "id": 11,
       "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/11%20Coursera%20XD5Y9J55RBK9.png",
       "verificationLink": "https://www.coursera.org/account/accomplishments/certificate/XD5Y9J55RBK9",
-      "field": "Web Development"
+      "field": "Web Development",
+      "major": false
     },
     {
       "id": 12,
       "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/12%20Coursera%20A7UCMDF3DCEH.png",
       "verificationLink": "https://www.coursera.org/account/accomplishments/certificate/A7UCMDF3DCEH",
-      "field": "Web Development"
+      "field": "Web Development",
+      "major": false
     },
     {
       "id": 13,
       "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/13%20Coursera%20YDCG8E45RKR8.png",
       "verificationLink": "https://www.coursera.org/account/accomplishments/certificate/YDCG8E45RKR8",
-      "field": "Web Development"
+      "field": "Web Development",
+      "major": false
     },
     {
       "id": 14,
       "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/14%20Coursera%20EPAL8N29ABQ9.png",
       "verificationLink": "https://www.coursera.org/account/accomplishments/certificate/EPAL8N29ABQ9",
-      "field": "Web Development"
+      "field": "Web Development",
+      "major": false
     },
     {
       "id": 15,
       "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/15%20Coursera%20PFKAF484D9GQ.png",
       "verificationLink": "https://www.coursera.org/account/accomplishments/certificate/PFKAF484D9GQ",
-      "field": "Web Development"
+      "field": "Web Development",
+      "major": false
     },
     {
       "id": 16,
       "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/16%20Google%20Digital%20Garage.png",
       "verificationLink": "https://learndigital.withgoogle.com/digitalgarage/validate-certificate-code",
-      "field": "Digital Marketing"
+      "field": "Digital Marketing",
+      "major": true
     },
     {
       "id": 17,
       "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/17%20Coursera%20UEEF79NEV8G2.png",
       "verificationLink": "https://www.coursera.org/account/accomplishments/certificate/UEEF79NEV8G2",
-      "field": "Java"
+      "field": "Java",
+      "major": false
     },
     {
       "id": 18,
       "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/18%20Coursera%204C9XWRUH6TYW.png",
       "verificationLink": "https://www.coursera.org/account/accomplishments/certificate/4C9XWRUH6TYW",
-      "field": "SQL"
+      "field": "SQL",
+      "major": false
     },
     {
       "id": 19,
       "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/19%20Coursera%20CRUV34EYL59A.png",
       "verificationLink": "https://www.coursera.org/account/accomplishments/certificate/CRUV34EYL59A",
-      "field": "Java"
+      "field": "Java",
+      "major": false
     },
     {
       "id": 20,
       "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/20%20Relentless%20ProgrammersContestant467885.png",
       "verificationLink": null,
-      "field": "Problem Solving"
+      "field": "Problem Solving",
+      "major": false
     },
     {
       "id": 21,
       "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/21%20Thirty%20Seventh%20PlaceContestant467885.png",
       "verificationLink": null,
-      "field": "Problem Solving"
+      "field": "Problem Solving",
+      "major": false
     },
     {
       "id": 22,
       "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/22%20UC-fb29842d-3b44-46cc-a71f-28e6eb7cc840.png",
       "verificationLink": "https://udemy-certificate.s3.amazonaws.com/pdf/UC-fb29842d-3b44-46cc-a71f-28e6eb7cc840.pdf",
-      "field": "Python"
+      "field": "Python",
+      "major": false
     },
     {
       "id": 23,
       "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/23%20UC-2aef85ea-7b13-43ce-966c-88c0f0028fb7.png",
       "verificationLink": "https://udemy-certificate.s3.amazonaws.com/pdf/UC-2aef85ea-7b13-43ce-966c-88c0f0028fb7.pdf",
-      "field": "Flutter Development"
+      "field": "Flutter Development",
+      "major": false
     },
     {
       "id": 24,
       "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/24%20HR%20Learning%20%26%20Development%20Certificate%20CIB.png",
       "verificationLink": null,
-      "field": "Bank Intern"
+      "field": "Bank Intern",
+      "major": false
     },
     {
       "id": 25,
       "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/25%20Flutter%20Training%20IClub.png",
       "verificationLink": null,
-      "field": "Flutter Development"
+      "field": "Flutter Development",
+      "major": false
     },
     {
       "id": 26,
       "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/26%20Introduction%20to%20Software%20Testing%20Concepts%20%26%20Techniques.png",
       "verificationLink": "https://maharatech.gov.eg/mod/customcert/verify_certificate.php?contextid=1036&code=faBBrV943U&qrcode=1",
-      "field": "Software Testing"
+      "field": "Software Testing",
+      "major": false
     },
     {
       "id": 27,
       "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/27%20UC-24ba49bb-e9e2-4e1b-9972-52524e3d6dac.png",
       "verificationLink": "https://udemy-certificate.s3.amazonaws.com/pdf/UC-24ba49bb-e9e2-4e1b-9972-52524e3d6dac.pdf",
-      "field": "Flutter Development"
+      "field": "Flutter Development",
+      "major": false
     },
     {
       "id": 28,
       "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/28%20ISTQB%20Foundation%20Level%20Mahara-Tech.png",
       "verificationLink": "https://maharatech.gov.eg/mod/customcert/verify_certificate.php?contextid=1682&code=FvONPR2YSL&qrcode=1",
-      "field": "Software Testing"
+      "field": "Software Testing",
+      "major": false
     },
     {
       "id": 29,
       "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/29%20UC-781617b3-65cb-4f4d-8ede-32496a0a2c8d.png",
       "verificationLink": "https://udemy-certificate.s3.amazonaws.com/pdf/UC-781617b3-65cb-4f4d-8ede-32496a0a2c8d.pdf",
-      "field": "php"
+      "field": "php",
+      "major": false
     },
     {
       "id": 30,
       "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/30%20DataCamp%204abf57530214266a113e09ecca8a64975b266c40.png",
       "verificationLink": "https://www.datacamp.com/statement-of-accomplishment/course/4abf57530214266a113e09ecca8a64975b266c40",
-      "field": "Data Analysis"
+      "field": "Data Analysis",
+      "major": false
     },
     {
       "id": 31,
       "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/31%20DataCamp%20a4e3f8486f8cc07150c333ea908b097e31c7b205.png",
       "verificationLink": "https://www.datacamp.com/statement-of-accomplishment/course/a4e3f8486f8cc07150c333ea908b097e31c7b205",
-      "field": "Data Analysis"
+      "field": "Data Analysis",
+      "major": false
     },
     {
       "id": 32,
       "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/32%20Bank%20Masr%20Internship%20Certificate.png",
       "verificationLink": null,
-      "field": "Bank Intern"
+      "field": "Bank Intern",
+      "major": false
     },
     {
       "id": 33,
       "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/33%20UC-72e8707c-f00a-4b43-9a6d-ffc1128f5ae1.png",
       "verificationLink": "https://udemy-certificate.s3.amazonaws.com/pdf/UC-72e8707c-f00a-4b43-9a6d-ffc1128f5ae1.pdf",
-      "field": "Data Analysis"
+      "field": "Data Analysis",
+      "major": false
     },
     {
       "id": 34,
       "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/34%20Coursera%20PQN2TN3YTH2S.png",
       "verificationLink": "https://coursera.org/verify/PQN2TN3YTH2S",
-      "field": "Data Analysis"
+      "field": "Data Analysis",
+      "major": false
     },
     {
       "id": 35,
       "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/35%20DataCamp%2063a47dff7878e752f9883996337688c696091dcc.png",
       "verificationLink": "https://www.datacamp.com/statement-of-accomplishment/course/63a47dff7878e752f9883996337688c696091dcc",
-      "field": "Data Analysis"
+      "field": "Data Analysis",
+      "major": false
     },
     {
       "id": 36,
       "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/36%20DataCamp%20d14c30b062579936a8a6b7af7a68cd8c61f6cecb.png",
       "verificationLink": "https://www.datacamp.com/statement-of-accomplishment/course/d14c30b062579936a8a6b7af7a68cd8c61f6cecb",
-      "field": "Data Analysis"
+      "field": "Data Analysis",
+      "major": false
     },
     {
       "id": 37,
       "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/37%20DataCamp%206c76691778e7cd9742433b2dcb896d7f34e8cc20.png",
       "verificationLink": "https://www.datacamp.com/statement-of-accomplishment/course/6c76691778e7cd9742433b2dcb896d7f34e8cc20",
-      "field": "Data Analysis"
+      "field": "Data Analysis",
+      "major": false
     },
     {
       "id": 38,
       "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/38%20DataCamp%2028c3a0d98a7d9d826766d111808b0abf1fab9d14.png",
       "verificationLink": "https://www.datacamp.com/statement-of-accomplishment/course/28c3a0d98a7d9d826766d111808b0abf1fab9d14",
-      "field": "Data Analysis"
+      "field": "Data Analysis",
+      "major": false
     },
     {
       "id": 39,
       "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/39%20DataCamp%20697037c30b8b22e7fb60afd16f625552482246ff.png",
       "verificationLink": "https://www.datacamp.com/statement-of-accomplishment/course/697037c30b8b22e7fb60afd16f625552482246ff",
-      "field": "Data Analysis"
+      "field": "Data Analysis",
+      "major": false
     },
     {
       "id": 40,
       "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/40%20DataCamp%206506fe6eddae236204ce2097adcb651197735bbc.png",
       "verificationLink": "https://www.datacamp.com/statement-of-accomplishment/course/6506fe6eddae236204ce2097adcb651197735bbc",
-      "field": "Data Analysis"
+      "field": "Data Analysis",
+      "major": false
     },
     {
       "id": 41,
       "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/41%20UC-21536130-4786-42cc-b8d4-fa5be9de7c2f.png",
       "verificationLink": "https://udemy-certificate.s3.amazonaws.com/pdf/UC-21536130-4786-42cc-b8d4-fa5be9de7c2f.pdf",
-      "field": "ChatGPT"
+      "field": "ChatGPT",
+      "major": false
     },
     {
       "id": 42,
       "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/42%20DataCamp%20368c081e979aa6a24e29d336b35e6abb67873c17.png",
       "verificationLink": "https://www.datacamp.com/statement-of-accomplishment/course/368c081e979aa6a24e29d336b35e6abb67873c17",
-      "field": "Data Analysis"
+      "field": "Data Analysis",
+      "major": false
     },
     {
       "id": 43,
       "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/43%20DataCamp%2032a1b0ab7a98bd452ce861b43257fa9131eff5b5.png",
       "verificationLink": "https://www.datacamp.com/statement-of-accomplishment/track/32a1b0ab7a98bd452ce861b43257fa9131eff5b5",
-      "field": "Data Analysis"
-    },    {
+      "field": "Data Analysis",
+      "major": false
+    },
+    {
       "id": 44,
       "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/44%20DataCamp%20f016ab449bd8c1ba94504afddf4a30aadfa723d0.png",
       "verificationLink": "https://www.datacamp.com/statement-of-accomplishment/track/f016ab449bd8c1ba94504afddf4a30aadfa723d0",
-      "field": "Data Analysis"
-    },    {
+      "field": "Data Analysis",
+      "major": false
+    },
+    {
       "id": 45,
       "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/45%20DataCamp%206a1a758c0644579f7f47504964b5be1ac3fd5946.png",
       "verificationLink": "https://www.datacamp.com/statement-of-accomplishment/track/6a1a758c0644579f7f47504964b5be1ac3fd5946",
-      "field": "Data Analysis"
-    },    {
+      "field": "Data Analysis",
+      "major": false
+    },
+    {
       "id": 46,
       "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/46%20DataCamp%20b03bca61cd8d3c85eb16d32fb1d16bdb7bfc9a69.png",
       "verificationLink": "https://www.datacamp.com/statement-of-accomplishment/track/b03bca61cd8d3c85eb16d32fb1d16bdb7bfc9a69",
-      "field": "Data Analysis"
-    },    {
+      "field": "Data Analysis",
+      "major": false
+    },
+    {
       "id": 47,
       "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/47%20DataCamp%20c8617d5b6aad2e91cfeef947606ed1d37660b1ed.png",
       "verificationLink": "https://www.datacamp.com/statement-of-accomplishment/track/c8617d5b6aad2e91cfeef947606ed1d37660b1ed",
-      "field": "Data Analysis"
-    },    {
+      "field": "Data Analysis",
+      "major": false
+    },
+    {
       "id": 48,
       "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/48%20DataCamp%200353c2a3bc3c3e68113e7d06e0ab2f9a75e4b6e2.png",
       "verificationLink": "https://www.datacamp.com/statement-of-accomplishment/track/0353c2a3bc3c3e68113e7d06e0ab2f9a75e4b6e2",
-      "field": "Data Analysis"
-    },    {
+      "field": "Data Analysis",
+      "major": false
+    },
+    {
       "id": 49,
       "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/49%20DataCamp%20af4fb2ffda2878d9e8b326288708d8d213246e8e.png",
       "verificationLink": "https://www.datacamp.com/statement-of-accomplishment/track/af4fb2ffda2878d9e8b326288708d8d213246e8e",
-      "field": "Data Analysis"
-    },    {
+      "field": "Data Analysis",
+      "major": false
+    },
+    {
       "id": 50,
       "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/50%20DataCamp%202770b00c1b5ba186ba78af523e2648d2fbb6154f.png",
       "verificationLink": "https://www.datacamp.com/statement-of-accomplishment/track/2770b00c1b5ba186ba78af523e2648d2fbb6154f",
-      "field": "Data Analysis"
-    },    {
+      "field": "Data Analysis",
+      "major": false
+    },
+    {
       "id": 51,
       "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/51%20DataCamp%20621c0b50dd1de3fc759fe2e37cfb8542670bf4f2.png",
       "verificationLink": "https://www.datacamp.com/statement-of-accomplishment/track/621c0b50dd1de3fc759fe2e37cfb8542670bf4f2",
-      "field": "Data Analysis"
-    },    {
+      "field": "Data Analysis",
+      "major": false
+    },
+    {
       "id": 52,
       "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/52%20DataCamp%20c40fd0056f847b0dfc47400b530bee219b3f300c.png",
       "verificationLink": "https://www.datacamp.com/statement-of-accomplishment/track/c40fd0056f847b0dfc47400b530bee219b3f300c",
-      "field": "Data Analysis"
-    },    {
+      "field": "Data Analysis",
+      "major": false
+    },
+    {
       "id": 53,
       "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/53%20DataCamp%202b5ca4cb3c873860c86c45f031a13cf880e1a259.png",
       "verificationLink": "https://www.datacamp.com/statement-of-accomplishment/track/2b5ca4cb3c873860c86c45f031a13cf880e1a259",
-      "field": "Data Analysis"
-    },    {
+      "field": "Data Analysis",
+      "major": false
+    },
+    {
       "id": 54,
       "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/54%20DataCamp%2016babff2b781ef094f9aad21d13a9bc063b4bfe9%20DataCamp.png",
       "verificationLink": "https://www.datacamp.com/statement-of-accomplishment/track/16babff2b781ef094f9aad21d13a9bc063b4bfe9 ",
-      "field": "Data Analysis"
-    },    {
+      "field": "Data Analysis",
+      "major": false
+    },
+    {
       "id": 55,
       "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/55%20DataCamp%205da0736bf6f8f605fd553e910f93a90abf080b34.png",
       "verificationLink": "https://www.datacamp.com/statement-of-accomplishment/track/5da0736bf6f8f605fd553e910f93a90abf080b34",
-      "field": "Data Analysis"
-    },    {
+      "field": "Data Analysis",
+      "major": false
+    },
+    {
       "id": 56,
       "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/56%20DataCamp%200404f23e7d8a1513f323d88c79611cd6ffc811a8.png",
       "verificationLink": "https://www.datacamp.com/statement-of-accomplishment/track/0404f23e7d8a1513f323d88c79611cd6ffc811a8",
-      "field": "Data Analysis"
-    },    {
+      "field": "Data Analysis",
+      "major": false
+    },
+    {
       "id": 57,
       "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/57%20DataCamp%20c0904478dd5510bd942d2f738a68efbae213677a.png",
       "verificationLink": "https://www.datacamp.com/statement-of-accomplishment/track/c0904478dd5510bd942d2f738a68efbae213677a",
-      "field": "Data Analysis"
-    },    {
+      "field": "Data Analysis",
+      "major": false
+    },
+    {
       "id": 58,
       "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/58%20DataCamp%20cc7e08035f6f733dbfafaa4c71acc891fff680ad.png",
       "verificationLink": "https://www.datacamp.com/statement-of-accomplishment/track/cc7e08035f6f733dbfafaa4c71acc891fff680ad",
-      "field": "Data Analysis"
-    },    {
+      "field": "Data Analysis",
+      "major": false
+    },
+    {
       "id": 59,
       "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/59%20DataCamp%2001215f5b01bfca4891f6d45c230c34ac2e1c66cb.png",
       "verificationLink": "https://www.datacamp.com/statement-of-accomplishment/track/01215f5b01bfca4891f6d45c230c34ac2e1c66cb",
-      "field": "Data Analysis"
-    },    {
+      "field": "Data Analysis",
+      "major": false
+    },
+    {
       "id": 60,
       "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/60%20DataCamp%20751ba49374c9b9ba0776b00ea8d21fe64ab7e057.png",
       "verificationLink": "https://www.datacamp.com/statement-of-accomplishment/track/751ba49374c9b9ba0776b00ea8d21fe64ab7e057",
-      "field": "Data Analysis"
-    },    {
+      "field": "Data Analysis",
+      "major": false
+    },
+    {
       "id": 61,
       "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/61%20DataCamp%20f5f8c14afe2bf59cc1a839b63a3ec286e249d97f.png",
       "verificationLink": "https://www.datacamp.com/statement-of-accomplishment/track/f5f8c14afe2bf59cc1a839b63a3ec286e249d97f",
-      "field": "Data Analysis"
-    },    {
+      "field": "Data Analysis",
+      "major": false
+    },
+    {
       "id": 62,
       "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/62%20ITI%20.Net%20Web%20Development.png",
       "verificationLink": null,
-      "field": "C# .Net"
-    },    {
+      "field": "C# .Net",
+      "major": false
+    },
+    {
       "id": 63,
       "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/63%20DataCamp%20d9f5636e1380b861ba5676f425bff55e6cc2b0c1.png",
       "verificationLink": "https://www.datacamp.com/statement-of-accomplishment/track/d9f5636e1380b861ba5676f425bff55e6cc2b0c1",
-      "field": "Data Analysis"
+      "field": "Data Analysis",
+      "major": false
     }
   ],
   "projects": [
