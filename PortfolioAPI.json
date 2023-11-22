@@ -445,6 +445,62 @@
       "verificationLink": "https://www.datacamp.com/statement-of-accomplishment/track/d9f5636e1380b861ba5676f425bff55e6cc2b0c1",
       "field": "Data Analysis",
       "major": false
+    },
+
+    {
+      "id": 64,
+      "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/64%20DataCamp%20f5a114cd4d459d4ea15cfeef403bde7a1e4b3bc6.png",
+      "verificationLink": "https://www.datacamp.com/statement-of-accomplishment/track/f5a114cd4d459d4ea15cfeef403bde7a1e4b3bc6",
+      "field": "Data Analysis",
+      "major": false
+    },
+
+    {
+      "id": 65,
+      "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/64%20DataCamp%20286a9b9e2828ef3a071797d5fc5b05aa21e1d6bc.png",
+      "verificationLink": "https://www.datacamp.com/statement-of-accomplishment/track/286a9b9e2828ef3a071797d5fc5b05aa21e1d6bc",
+      "field": "Data Analysis",
+      "major": false
+    },
+
+    {
+      "id": 66,
+      "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/64%20DataCamp%20a3f381492fb415f3b068f32116fad8b3ee3c62e8.png",
+      "verificationLink": "https://www.datacamp.com/statement-of-accomplishment/track/a3f381492fb415f3b068f32116fad8b3ee3c62e8",
+      "field": "Data Analysis",
+      "major": false
+    },
+
+    {
+      "id": 67,
+      "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/64%20DataCamp%2067dbc64a1814a240eb134f1139071a1d021f4cd1.png",
+      "verificationLink": "https://www.datacamp.com/statement-of-accomplishment/track/67dbc64a1814a240eb134f1139071a1d021f4cd1",
+      "field": "Data Analysis",
+      "major": false
+    },
+
+    {
+      "id": 68,
+      "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/64%20DataCamp%20eff7fc2499c33aecf20468912d81ac861b90d3c8.png",
+      "verificationLink": "https://www.datacamp.com/statement-of-accomplishment/track/eff7fc2499c33aecf20468912d81ac861b90d3c8",
+      "field": "Data Analysis",
+      "major": false
+    },
+
+    {
+      "id": 69,
+      "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/69%20UC-70faff9c-76a5-4696-bc09-03a324b73143.png",
+      "verificationLink": "https://udemy-certificate.s3.amazonaws.com/pdf/UC-70faff9c-76a5-4696-bc09-03a324b73143.pdf",
+      "field": "Data Analysis",
+      "major": false
+    },
+
+    {
+      "id": 70,
+      "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/64%20DataCamp%20ede44f7f233ec10dbb78e81b83eb9a7b07b8e2ce.png",
+      "verificationLink": "https://www.datacamp.com/statement-of-accomplishment/track/ede44f7f233ec10dbb78e81b83eb9a7b07b8e2ce",
+      "field": "Data Analysis",
+      "major": false
     }
   ],
   "projects": [
@@ -655,7 +711,7 @@
     {
       "id": 12,
       "field": "Flutter",
-      "projectTitle": "Arabic Doulingo",
+      "projectTitle": "Arabic Duolingo",
       "developmentDate": "2019/20/5",
       "description": "Site is under maintenance Site is under maintenance Site is under maintenance Site is under maintenance Site is under maintenance Site is under maintenance Site is under maintenance",
       "gitHubLink": null,
@@ -761,6 +817,6 @@
     "facebookLink": "https://www.facebook.com/seifeldeen.mostafa.568",
     "gitHubLink": "https://github.com/Seif-El-Deen",
     "telegramLink": "https://t.me/Seif_El_Deen",
-    "messangerLink": "messanger.com"
+    "messengerLink": "messenger.com"
   }
 }
