@@ -501,6 +501,46 @@
       "verificationLink": "https://www.datacamp.com/statement-of-accomplishment/course/ede44f7f233ec10dbb78e81b83eb9a7b07b8e2ce",
       "field": "Data Analysis",
       "major": false
+    },
+
+    {
+      "id": 71,
+      "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/71%20DataCamp%204910136d2d2a17fe07896b485db0a44d35e73453.png",
+      "verificationLink": "https://www.datacamp.com/statement-of-accomplishment/course/4910136d2d2a17fe07896b485db0a44d35e73453",
+      "field": "Data Analysis",
+      "major": false
+    },
+
+    {
+      "id": 72,
+      "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/72%20DataCamp%2013293c81f3719167418a0b787e867808925c41cf.png",
+      "verificationLink": "https://www.datacamp.com/statement-of-accomplishment/course/13293c81f3719167418a0b787e867808925c41cf",
+      "field": "Data Analysis",
+      "major": false
+    },
+
+    {
+      "id": 73,
+      "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/73%20DataCamp%20b91b822410e3d9d0976ce1e90d554b62034ee62c.png",
+      "verificationLink": "https://www.datacamp.com/statement-of-accomplishment/course/b91b822410e3d9d0976ce1e90d554b62034ee62c",
+      "field": "Data Analysis",
+      "major": false
+    },
+
+    {
+      "id": 74,
+      "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/74%20DataCamp%202551047c9bd1077a81ff0605cd976083df876e04.png",
+      "verificationLink": "https://www.datacamp.com/statement-of-accomplishment/course/2551047c9bd1077a81ff0605cd976083df876e04",
+      "field": "Data Analysis",
+      "major": false
+    },
+
+    {
+      "id": 75,
+      "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/75%20DataCamp%2092bf9ac78e483772fbfc4bd367e1129964868c6e.png",
+      "verificationLink": "https://www.datacamp.com/statement-of-accomplishment/track/92bf9ac78e483772fbfc4bd367e1129964868c6e",
+      "field": "Data Analysis",
+      "major": true
     }
   ],
   "projects": [
