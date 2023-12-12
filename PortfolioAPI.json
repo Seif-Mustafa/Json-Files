@@ -446,7 +446,6 @@
       "field": "Data Analysis",
       "major": false
     },
-
     {
       "id": 64,
       "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/64%20DataCamp%20f5a114cd4d459d4ea15cfeef403bde7a1e4b3bc6.png",
@@ -454,7 +453,6 @@
       "field": "Data Analysis",
       "major": false
     },
-
     {
       "id": 65,
       "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/65%20DataCamp%20286a9b9e2828ef3a071797d5fc5b05aa21e1d6bc.png",
@@ -462,7 +460,6 @@
       "field": "Data Analysis",
       "major": false
     },
-
     {
       "id": 66,
       "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/66%20DataCamp%20a3f381492fb415f3b068f32116fad8b3ee3c62e8.png",
@@ -470,7 +467,6 @@
       "field": "Data Analysis",
       "major": false
     },
-
     {
       "id": 67,
       "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/67%20DataCamp%2067dbc64a1814a240eb134f1139071a1d021f4cd1.png",
@@ -478,7 +474,6 @@
       "field": "Data Analysis",
       "major": false
     },
-
     {
       "id": 68,
       "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/68%20DataCamp%20eff7fc2499c33aecf20468912d81ac861b90d3c8.png",
@@ -486,7 +481,6 @@
       "field": "Data Analysis",
       "major": false
     },
-
     {
       "id": 69,
       "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/69%20UC-70faff9c-76a5-4696-bc09-03a324b73143.png",
@@ -494,7 +488,6 @@
       "field": "Flutter Development",
       "major": true
     },
-
     {
       "id": 70,
       "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/70%20DataCamp%20ede44f7f233ec10dbb78e81b83eb9a7b07b8e2ce.png",
@@ -502,7 +495,6 @@
       "field": "Data Analysis",
       "major": false
     },
-
     {
       "id": 71,
       "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/71%20DataCamp%204910136d2d2a17fe07896b485db0a44d35e73453.png",
@@ -510,7 +502,6 @@
       "field": "Data Analysis",
       "major": false
     },
-
     {
       "id": 72,
       "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/72%20DataCamp%2013293c81f3719167418a0b787e867808925c41cf.png",
@@ -518,7 +509,6 @@
       "field": "Data Analysis",
       "major": false
     },
-
     {
       "id": 73,
       "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/73%20DataCamp%20b91b822410e3d9d0976ce1e90d554b62034ee62c.png",
@@ -526,7 +516,6 @@
       "field": "Data Analysis",
       "major": false
     },
-
     {
       "id": 74,
       "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/74%20DataCamp%202551047c9bd1077a81ff0605cd976083df876e04.png",
@@ -534,7 +523,6 @@
       "field": "Data Analysis",
       "major": false
     },
-
     {
       "id": 75,
       "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/75%20DataCamp%2092bf9ac78e483772fbfc4bd367e1129964868c6e.png",
@@ -796,7 +784,7 @@
       "field": "Data Analysis",
       "projectTitle": "Hospital Revenue Analysis",
       "developmentDate": "2023/10/2",
-      "description": "Site is under maintenance Site is under maintenance Site is under maintenance Site is under maintenance Site is under maintenance Site is under maintenance Site is under maintenance",
+      "description": "A Dashboard about a hospital that have many branches and wants to analise the occupation of it's rooms over the year, and also to take care about the rating of every branch according to it's occupation.",
       "gitHubLink": null,
       "playStoreLink": null,
       "imagesUrls": [
@@ -809,7 +797,7 @@
       "field": "Data Analysis",
       "projectTitle": "Hr Analytics",
       "developmentDate": "2023/11/22",
-      "description": "Site is under maintenance Site is under maintenance Site is under maintenance Site is under maintenance Site is under maintenance Site is under maintenance Site is under maintenance",
+      "description": "A Dashboard made for an hr to see the percentage of employees who prefers to work from home and how prefers to work onsite, also to keep track on the rate of sick leave (during the corona virus period).",
       "gitHubLink": null,
       "playStoreLink": null,
       "imagesUrls": [
@@ -817,28 +805,28 @@
         "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Data%20Analysis/Hr%20Analytics%202.png",
         "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Data%20Analysis/Hr%20Analytics%203.png",
         "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Data%20Analysis/Hr%20Analytics%204.png"
-        ]
+      ]
     },
     {
       "id": 16,
       "field": "Data Analysis",
       "projectTitle": "Olympic Games Analysis",
       "developmentDate": "2023/10/10",
-      "description": "Site is under maintenance Site is under maintenance Site is under maintenance Site is under maintenance Site is under maintenance Site is under maintenance Site is under maintenance",
+      "description": "A dashboard about the olympic games from 1896 to 2016 where the number of competitors is counted, total number of medals over the years, number of medals grouped by sport and categorized by type of medal, a bar char that displays the number of medals that each athlete toke.",
       "gitHubLink": null,
       "playStoreLink": null,
       "imagesUrls": [
         "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Data%20Analysis/Olympic%20Games%20Analysis%202.png",
         "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Data%20Analysis/Olympic%20Games%20Analysis%201.png",
         "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Data%20Analysis/Olympic%20Games%20Analysis%203.png"
-        ]
+      ]
     },
     {
       "id": 17,
       "field": "Data Analysis",
       "projectTitle": "Pizza Sales Report",
       "developmentDate": "2023/11/11",
-      "description": "Site is under maintenance Site is under maintenance Site is under maintenance Site is under maintenance Site is under maintenance Site is under maintenance Site is under maintenance",
+      "description": "A dashboard using Power Bi, the dashboard is for a pizza store so by interacting with the dashboard the stackholders can find the most  & least sold items, their amounts, total revenue and some more things that can help them take decisions.",
       "gitHubLink": null,
       "playStoreLink": null,
       "imagesUrls": [
@@ -849,7 +837,6 @@
         "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Data%20Analysis/Pizza%20Sales%20Report%205.png"
       ]
     }
-
   ],
   "contactsInfo": {
     "whatsappLink": "https://wa.me/+200164598589",
