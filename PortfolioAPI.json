@@ -836,6 +836,20 @@
         "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Data%20Analysis/Pizza%20Sales%20Report%204.png",
         "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Data%20Analysis/Pizza%20Sales%20Report%205.png"
       ]
+    },
+    {
+      "id": 18,
+      "field": "Data Analysis",
+      "projectTitle": "Data Professional Survey",
+      "developmentDate": "2023/12/1",
+      "description": "A dashboard using Power Bi, made on a data collected from the people working in the data fields visualising their countries, their average age, their average rate of happiness, and the jobs with the highest salaries.",
+      "gitHubLink": null,
+      "playStoreLink": null,
+      "imagesUrls": [
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Data%20Analysis/Data%20Professional%20Survey%201.png",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Data%20Analysis/Data%20Professional%20Survey%202.png"
+
+      ]
     }
   ],
   "contactsInfo": {
