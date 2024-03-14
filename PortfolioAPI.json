@@ -601,7 +601,7 @@
       "field": "Flutter",
       "projectTitle": "My Bags App",
       "developmentDate": "2019/20/5",
-      "description": "Site is under maintenance Site is under maintenance Site is under maintenance Site is under maintenance Site is under maintenance Site is under maintenance Site is under maintenance",
+      "description": "The idea of ths application is very simple you can create a bag(Work Bag, School Bag, etc.) inside each bag you can add your items like(pen, pencil, notebook, laptop, etc.), you can delete a bag or a specific item inside a bag, you can also edit the name of the items, there is also a way to check that you forgot nothing by checking the correct button in the right of each item, once all your bag is done a pop up message will appear that tells you that your bag is ready and you forgot nothing.",
       "gitHubLink": "https://github.com/Seif-El-Deen/my-bag-application",
       "playStoreLink": "https://play.google.com/store/apps/details?id=com.my_bags.my_bag_application",
       "imagesUrls": [
