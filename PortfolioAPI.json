@@ -571,7 +571,7 @@
       "field": "Flutter",
       "projectTitle": "Meal App",
       "developmentDate": "2020/20/5",
-      "description": "Site is under maintenance Site is under maintenance Site is under maintenance Site is under maintenance Site is under maintenance Site is under maintenance Site is under maintenance",
+      "description": "One of the simple projects that I developed it's UI as I seen it the one of the courses (The Complete Flutter Developement Guide), using dummy data, the app consists of categories each category consists of a list of meals and you can see the description of each meal, you can also make filter that filters the food according to your choice, you can put your favorite meals in the favorite list so it is easier to access them.",
       "gitHubLink": "https://github.com/Seif-El-Deen/Meal-App",
       "playStoreLink": null,
       "imagesUrls": [
