@@ -619,7 +619,7 @@
       "field": "Flutter",
       "projectTitle": "Coffee Shop App",
       "developmentDate": "2019/20/5",
-      "description": "Site is under maintenance Site is under maintenance Site is under maintenance Site is under maintenance Site is under maintenance Site is under maintenance Site is under maintenance",
+      "description": "I participated in developing this application with my colleagues. It's a coffee shop application where all the menu contents are available in the application with the price of every item according to it's size and the user can also search for a specific item with its name, the user can also add, remove items to his favorites list. We also created an admin panel so we can add, remove, update items to the application. We used firebase for user's authentication and as a backend for the app data and users data and also for authentication.",
       "gitHubLink": "https://github.com/Seif-El-Deen/Coffee-Shop-App",
       "playStoreLink": null,
       "imagesUrls": [
@@ -639,7 +639,7 @@
       "field": "Flutter",
       "projectTitle": "مهاراتى",
       "developmentDate": "2019/20/5",
-      "description": "Site is under maintenance Site is under maintenance Site is under maintenance Site is under maintenance Site is under maintenance Site is under maintenance Site is under maintenance",
+      "description": "this was my first application on the play store. It targets children ages (3-8). The idea of the application is new and attracts the children's attention to use the app without boredom. This application was developed before using flash player, and I redeveloped it using flutter framework fixing many of the problems that was in the old version, I also made too much effort to reduce the application size to 40 Mb ( the application was developed before using flash player was on a CD with size nearly 400 Mb).",
       "gitHubLink": null,
       "playStoreLink": "https://play.google.com/store/apps/details?id=com.skills.my_skills",
       "imagesUrls": [
@@ -655,8 +655,8 @@
       "id": 8,
       "field": "Flutter",
       "projectTitle": "Chatting App",
-      "developmentDate": "2019/20/5",
-      "description": "Site is under maintenance Site is under maintenance Site is under maintenance Site is under maintenance Site is under maintenance Site is under maintenance Site is under maintenance",
+      "developmentDate": "2022/18/4",
+      "description": " A simple chatting App that I developed using flutter framework where the users can register or sign in, I used firebase for authentication and data storage, I also used the provider package for state management",
       "gitHubLink": "https://github.com/Seif-El-Deen/Chat-App",
       "playStoreLink": null,
       "imagesUrls": [
