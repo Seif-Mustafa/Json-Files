@@ -2,8 +2,8 @@
   "profileImage": "https://avatars.githubusercontent.com/u/67309639?v=4",
   "profileDescription": "I'm Seif El-Deen Mostafa a Software Engineer at Psystems Company, I graduated from the faculty of computer and information systems Ain-Shams University, I'm interested in Data Analytics, Flutter Development, .Net Development, I got too many certificates from DataCamp in data analytics using  Power Bi, Python and SQL. I also got 4 certificates in flutter development and developed too many projects using flutter framework, by the way this website is developed in flutter.",
   "jobTitle": "Software Engineer",
-  "primaryColor": "0xff23a448",
-  "secondaryColor": "0xff74e895",
+  "primaryColor": "0xff434343",
+  "secondaryColor": "0xffa46f23",
   "certificates": [
     {
       "id": 1,
@@ -497,7 +497,7 @@
     },
     {
       "id": 71,
-      "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/71%20DataCamp%204910136d2d2a17fe07896b485db0a44d35e73453-min.png",
+      "imageUrl": "https://raw.githubusercontent.com/Seif-El-Deen/My-Certificates-Optimized-PNG/main/71%20DataCamp%204910136d2d2a17fe07896b485db0a44d35e73453.png",
       "verificationLink": "https://www.datacamp.com/statement-of-accomplishment/course/4910136d2d2a17fe07896b485db0a44d35e73453",
       "field": "Data Analysis",
       "major": false
@@ -848,7 +848,60 @@
       "imagesUrls": [
         "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Data%20Analysis/Data%20Professional%20Survey%201.png",
         "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Data%20Analysis/Data%20Professional%20Survey%202.png"
-
+      ]
+    },
+    {
+      "id": 19,
+      "field": "Flutter",
+      "projectTitle": "Notes App",
+      "developmentDate": "",
+      "description": "A Simple Notes App, I took the design of the app from one of the courses that I learned.",
+      "gitHubLink": null,
+      "playStoreLink": null,
+      "imagesUrls": [
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Notes%20App/1.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Notes%20App/2.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Notes%20App/3.jpg"
+      ]
+    },
+    {
+      "id": 20,
+      "field": "Flutter",
+      "projectTitle": "Educated Muslim",
+      "developmentDate": "",
+      "description": "",
+      "gitHubLink": null,
+      "playStoreLink": "https://play.google.com/store/apps/details?id=com.educatedmuslim.motkenon&pli=1",
+      "imagesUrls": [
+        "https://github.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/blob/main/%D8%A7%D9%84%D9%85%D8%B3%D9%84%D9%85%20%D8%A7%D9%84%D9%85%D8%AB%D9%82%D9%81/1.jpg",
+        "https://github.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/blob/main/%D8%A7%D9%84%D9%85%D8%B3%D9%84%D9%85%20%D8%A7%D9%84%D9%85%D8%AB%D9%82%D9%81/2.jpg",
+        "https://github.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/blob/main/%D8%A7%D9%84%D9%85%D8%B3%D9%84%D9%85%20%D8%A7%D9%84%D9%85%D8%AB%D9%82%D9%81/3.jpg",
+        "https://github.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/blob/main/%D8%A7%D9%84%D9%85%D8%B3%D9%84%D9%85%20%D8%A7%D9%84%D9%85%D8%AB%D9%82%D9%81/4.jpg",
+        "https://github.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/blob/main/%D8%A7%D9%84%D9%85%D8%B3%D9%84%D9%85%20%D8%A7%D9%84%D9%85%D8%AB%D9%82%D9%81/5.jpg",
+        "https://github.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/blob/main/%D8%A7%D9%84%D9%85%D8%B3%D9%84%D9%85%20%D8%A7%D9%84%D9%85%D8%AB%D9%82%D9%81/6.jpg",
+        "https://github.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/blob/main/%D8%A7%D9%84%D9%85%D8%B3%D9%84%D9%85%20%D8%A7%D9%84%D9%85%D8%AB%D9%82%D9%81/7.jpg",
+        "https://github.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/blob/main/%D8%A7%D9%84%D9%85%D8%B3%D9%84%D9%85%20%D8%A7%D9%84%D9%85%D8%AB%D9%82%D9%81/8.jpg",
+        "https://github.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/blob/main/%D8%A7%D9%84%D9%85%D8%B3%D9%84%D9%85%20%D8%A7%D9%84%D9%85%D8%AB%D9%82%D9%81/9.jpg",
+        "https://github.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/blob/main/%D8%A7%D9%84%D9%85%D8%B3%D9%84%D9%85%20%D8%A7%D9%84%D9%85%D8%AB%D9%82%D9%81/10.jpg"
+      ]
+    }
+  ,
+    {
+      "id": 21,
+      "field": "Flutter",
+      "projectTitle": "متقنون",
+      "developmentDate": "",
+      "description": "",
+      "gitHubLink": null,
+      "playStoreLink": "https://play.google.com/store/apps/details?id=com.language.motkenon",
+      "imagesUrls": [
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/%D9%85%D8%AA%D9%82%D9%86%D9%88%D9%86/1.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/%D9%85%D8%AA%D9%82%D9%86%D9%88%D9%86/2.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/%D9%85%D8%AA%D9%82%D9%86%D9%88%D9%86/3.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/%D9%85%D8%AA%D9%82%D9%86%D9%88%D9%86/4.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/%D9%85%D8%AA%D9%82%D9%86%D9%88%D9%86/5.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/%D9%85%D8%AA%D9%82%D9%86%D9%88%D9%86/6.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/%D9%85%D8%AA%D9%82%D9%86%D9%88%D9%86/7.jpg"
       ]
     }
   ],
