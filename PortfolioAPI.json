@@ -534,40 +534,77 @@
   "projects": [
     {
       "id": 1,
-      "field": "Flutter",
-      "projectTitle": "X & O Game",
-      "developmentDate": "2021 July",
-      "description": "This was my first flutter application, I have created it to apply all the things that I learned at this time, the app consists of four pages the main page where you navigate to play a game or choose to navigate to one of the other 2 screens, one of them give you a brief description on how to play the game and the other one is just a contact page.",
-      "gitHubLink": "https://github.com/Seif-El-Deen/X-and-O-Game-using-Flutter-Tic-Tac-Toe-",
+      "field": "Data Analysis",
+      "projectTitle": "Hospital Revenue Analysis",
+      "developmentDate": "2023/10/2",
+      "description": "A Dashboard about a hospital that have many branches and wants to analise the occupation of it's rooms over the year, and also to take care about the rating of every branch according to it's occupation.",
+      "gitHubLink": null,
       "playStoreLink": null,
       "imagesUrls": [
-        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/X-O%20(Tic-Tac-Toe)%20Game/1.jpg",
-        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/X-O%20(Tic-Tac-Toe)%20Game/2.jpg",
-        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/X-O%20(Tic-Tac-Toe)%20Game/3.jpg",
-        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/X-O%20(Tic-Tac-Toe)%20Game/4.jpg",
-        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/X-O%20(Tic-Tac-Toe)%20Game/5.jpg",
-        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/X-O%20(Tic-Tac-Toe)%20Game/6.jpg"
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Data%20Analysis/Hospital%20Revenue%20Analysis%201.png",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Data%20Analysis/Hospital%20Revenue%20Analysis%202.png"
       ]
     },
     {
       "id": 2,
-      "field": "Flutter",
-      "projectTitle": "To-Do App",
-      "developmentDate": "2021 Aug.",
-      "description": "I developed this application as I learned it in one of the courses (The complete 2021 flutter & dart development course), the app consists of 3 screens and a bottom sheet where you can add a new task and change it's place from the new tasks to the done tasks or the archived tasks or you can remove it from the app at all, the data is stored to a local database (sqlite package).",
-      "gitHubLink": "https://github.com/Seif-El-Deen/ToDo-App-Using-Flutter",
+      "field": "Data Analysis",
+      "projectTitle": "Hr Analytics",
+      "developmentDate": "2023/11/22",
+      "description": "A Dashboard made for an hr to see the percentage of employees who prefers to work from home and how prefers to work onsite, also to keep track on the rate of sick leave (during the corona virus period).",
+      "gitHubLink": null,
       "playStoreLink": null,
       "imagesUrls": [
-        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/ToDo/1.jpg",
-        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/ToDo/2.jpg",
-        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/ToDo/3.jpg",
-        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/ToDo/4.jpg",
-        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/ToDo/5.jpg",
-        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/ToDo/6.jpg"
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Data%20Analysis/Hr%20Analytics%201.png",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Data%20Analysis/Hr%20Analytics%202.png",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Data%20Analysis/Hr%20Analytics%203.png",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Data%20Analysis/Hr%20Analytics%204.png"
       ]
     },
     {
       "id": 3,
+      "field": "Data Analysis",
+      "projectTitle": "Olympic Games Analysis",
+      "developmentDate": "2023/10/10",
+      "description": "A dashboard about the olympic games from 1896 to 2016 where the number of competitors is counted, total number of medals over the years, number of medals grouped by sport and categorized by type of medal, a bar char that displays the number of medals that each athlete toke.",
+      "gitHubLink": null,
+      "playStoreLink": null,
+      "imagesUrls": [
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Data%20Analysis/Olympic%20Games%20Analysis%202.png",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Data%20Analysis/Olympic%20Games%20Analysis%201.png",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Data%20Analysis/Olympic%20Games%20Analysis%203.png"
+      ]
+    },
+    {
+      "id": 4,
+      "field": "Data Analysis",
+      "projectTitle": "Pizza Sales Report",
+      "developmentDate": "2023/11/11",
+      "description": "A dashboard using Power Bi, the dashboard is for a pizza store so by interacting with the dashboard the stackholders can find the most  & least sold items, their amounts, total revenue and some more things that can help them take decisions.",
+      "gitHubLink": null,
+      "playStoreLink": null,
+      "imagesUrls": [
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Data%20Analysis/Pizza%20Sales%20Report%201.png",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Data%20Analysis/Pizza%20Sales%20Report%202.png",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Data%20Analysis/Pizza%20Sales%20Report%203.png",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Data%20Analysis/Pizza%20Sales%20Report%204.png",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Data%20Analysis/Pizza%20Sales%20Report%205.png"
+      ]
+    },
+    {
+      "id": 5,
+      "field": "Data Analysis",
+      "projectTitle": "Data Professional Survey",
+      "developmentDate": "2023/12/1",
+      "description": "A dashboard using Power Bi, made on a data collected from the people working in the data fields visualising their countries, their average age, their average rate of happiness, and the jobs with the highest salaries.",
+      "gitHubLink": null,
+      "playStoreLink": null,
+      "imagesUrls": [
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Data%20Analysis/Data%20Professional%20Survey%201.png",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Data%20Analysis/Data%20Professional%20Survey%202.png"
+      ]
+    },
+    {
+      "id": 6,
       "field": "Flutter",
       "projectTitle": "Meal App",
       "developmentDate": "2021 Sept.",
@@ -584,7 +621,55 @@
       ]
     },
     {
-      "id": 4,
+      "id": 7,
+      "field": "Flutter",
+      "projectTitle": "To-Do App",
+      "developmentDate": "2021 Aug.",
+      "description": "I developed this application as I learned it in one of the courses (The complete 2021 flutter & dart development course), the app consists of 3 screens and a bottom sheet where you can add a new task and change it's place from the new tasks to the done tasks or the archived tasks or you can remove it from the app at all, the data is stored to a local database (sqlite package).",
+      "gitHubLink": "https://github.com/Seif-El-Deen/ToDo-App-Using-Flutter",
+      "playStoreLink": null,
+      "imagesUrls": [
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/ToDo/1.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/ToDo/2.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/ToDo/3.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/ToDo/4.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/ToDo/5.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/ToDo/6.jpg"
+      ]
+    },
+    {
+      "id": 8,
+      "field": "Flutter",
+      "projectTitle": "Notes App",
+      "developmentDate": "",
+      "description": "A Simple Notes App, I took the design of the app from one of the courses that I learned.",
+      "gitHubLink": null,
+      "playStoreLink": null,
+      "imagesUrls": [
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Notes%20App/1.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Notes%20App/2.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Notes%20App/3.jpg"
+      ]
+    },
+    {
+      "id": 9,
+      "field": "Flutter",
+      "projectTitle": "X & O Game",
+      "developmentDate": "2021 July",
+      "description": "This was my first flutter application, I have created it to apply all the things that I learned at this time, the app consists of four pages the main page where you navigate to play a game or choose to navigate to one of the other 2 screens, one of them give you a brief description on how to play the game and the other one is just a contact page.",
+      "gitHubLink": "https://github.com/Seif-El-Deen/X-and-O-Game-using-Flutter-Tic-Tac-Toe-",
+      "playStoreLink": null,
+      "imagesUrls": [
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/X-O%20(Tic-Tac-Toe)%20Game/1.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/X-O%20(Tic-Tac-Toe)%20Game/2.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/X-O%20(Tic-Tac-Toe)%20Game/3.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/X-O%20(Tic-Tac-Toe)%20Game/4.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/X-O%20(Tic-Tac-Toe)%20Game/5.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/X-O%20(Tic-Tac-Toe)%20Game/6.jpg"
+      ]
+    },
+    {
+      "id": 10,
       "field": "Flutter",
       "projectTitle": "Diabetes Readings History",
       "developmentDate": "2021 Oct.",
@@ -597,7 +682,7 @@
       ]
     },
     {
-      "id": 5,
+      "id": 11,
       "field": "Flutter",
       "projectTitle": "My Bags App",
       "developmentDate": "2021 July",
@@ -615,44 +700,7 @@
       ]
     },
     {
-      "id": 6,
-      "field": "Flutter",
-      "projectTitle": "Coffee Shop App",
-      "developmentDate": "2021 Aug.",
-      "description": "I participated in developing this application with my colleagues. It's a coffee shop application where all the menu contents are available in the application with the price of every item according to it's size and the user can also search for a specific item with its name, the user can also add, remove items to his favorites list. We also created an admin panel so we can add, remove, update items to the application. We used firebase for user's authentication and as a backend for the app data and users data and also for authentication.",
-      "gitHubLink": "https://github.com/Seif-El-Deen/Coffee-Shop-App",
-      "playStoreLink": null,
-      "imagesUrls": [
-        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Coffee%20Shop/1.jpg",
-        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Coffee%20Shop/2.jpg",
-        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Coffee%20Shop/3.jpg",
-        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Coffee%20Shop/4.jpg",
-        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Coffee%20Shop/5.jpg",
-        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Coffee%20Shop/6.jpg",
-        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Coffee%20Shop/7.jpg",
-        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Coffee%20Shop/8.jpg",
-        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Coffee%20Shop/9.jpg"
-      ]
-    },
-    {
-      "id": 7,
-      "field": "Flutter",
-      "projectTitle": "مهاراتى",
-      "developmentDate": "2022 Sep.",
-      "description": "this was my first application on the play store. It targets children ages (3-8). The idea of the application is new and attracts the children's attention to use the app without boredom. This application was developed before using flash player, and I redeveloped it using flutter framework fixing many of the problems that was in the old version, I also made too much effort to reduce the application size to 40 Mb ( the application was developed before using flash player was on a CD with size nearly 400 Mb).",
-      "gitHubLink": null,
-      "playStoreLink": "https://play.google.com/store/apps/details?id=com.skills.my_skills",
-      "imagesUrls": [
-        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/%D9%85%D9%87%D8%A7%D8%B1%D8%A7%D8%AA%D9%89/1.jpg",
-        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/%D9%85%D9%87%D8%A7%D8%B1%D8%A7%D8%AA%D9%89/2.jpg",
-        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/%D9%85%D9%87%D8%A7%D8%B1%D8%A7%D8%AA%D9%89/3.jpg",
-        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/%D9%85%D9%87%D8%A7%D8%B1%D8%A7%D8%AA%D9%89/4.jpg",
-        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/%D9%85%D9%87%D8%A7%D8%B1%D8%A7%D8%AA%D9%89/5.jpg",
-        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/%D9%85%D9%87%D8%A7%D8%B1%D8%A7%D8%AA%D9%89/6.jpg"
-      ]
-    },
-    {
-      "id": 8,
+      "id": 12,
       "field": "Flutter",
       "projectTitle": "Chatting App",
       "developmentDate": "2022 Apr.",
@@ -667,7 +715,7 @@
       ]
     },
     {
-      "id": 9,
+      "id": 13,
       "field": "Flutter",
       "projectTitle": "كلنا مع بعض",
       "developmentDate": "2023 Jan.",
@@ -690,7 +738,7 @@
       ]
     },
     {
-      "id": 10,
+      "id": 14,
       "field": "Flutter",
       "projectTitle": "Shared Ride App",
       "developmentDate": "2023 Apr.",
@@ -717,7 +765,24 @@
       ]
     },
     {
-      "id": 11,
+      "id": 15,
+      "field": "Flutter",
+      "projectTitle": "مهاراتى",
+      "developmentDate": "2022 Sep.",
+      "description": "this was my first application on the play store. It targets children ages (3-8). The idea of the application is new and attracts the children's attention to use the app without boredom. This application was developed before using flash player, and I redeveloped it using flutter framework fixing many of the problems that was in the old version, I also made too much effort to reduce the application size to 40 Mb ( the application was developed before using flash player was on a CD with size nearly 400 Mb).",
+      "gitHubLink": null,
+      "playStoreLink": "https://play.google.com/store/apps/details?id=com.skills.my_skills",
+      "imagesUrls": [
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/%D9%85%D9%87%D8%A7%D8%B1%D8%A7%D8%AA%D9%89/1.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/%D9%85%D9%87%D8%A7%D8%B1%D8%A7%D8%AA%D9%89/2.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/%D9%85%D9%87%D8%A7%D8%B1%D8%A7%D8%AA%D9%89/3.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/%D9%85%D9%87%D8%A7%D8%B1%D8%A7%D8%AA%D9%89/4.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/%D9%85%D9%87%D8%A7%D8%B1%D8%A7%D8%AA%D9%89/5.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/%D9%85%D9%87%D8%A7%D8%B1%D8%A7%D8%AA%D9%89/6.jpg"
+      ]
+    },
+    {
+      "id": 16,
       "field": "Flutter",
       "projectTitle": "Attendance Tracking App",
       "developmentDate": "2022 Dec.",
@@ -737,7 +802,27 @@
       ]
     },
     {
-      "id": 12,
+      "id": 17,
+      "field": "Flutter",
+      "projectTitle": "Coffee Shop App",
+      "developmentDate": "2021 Aug.",
+      "description": "I participated in developing this application with my colleagues. It's a coffee shop application where all the menu contents are available in the application with the price of every item according to it's size and the user can also search for a specific item with its name, the user can also add, remove items to his favorites list. We also created an admin panel so we can add, remove, update items to the application. We used firebase for user's authentication and as a backend for the app data and users data and also for authentication.",
+      "gitHubLink": "https://github.com/Seif-El-Deen/Coffee-Shop-App",
+      "playStoreLink": null,
+      "imagesUrls": [
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Coffee%20Shop/1.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Coffee%20Shop/2.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Coffee%20Shop/3.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Coffee%20Shop/4.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Coffee%20Shop/5.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Coffee%20Shop/6.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Coffee%20Shop/7.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Coffee%20Shop/8.jpg",
+        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Coffee%20Shop/9.jpg"
+      ]
+    },
+    {
+      "id": 18,
       "field": "Flutter",
       "projectTitle": "Arabic Duolingo",
       "developmentDate": "2019/20/5",
@@ -760,7 +845,7 @@
       ]
     },
     {
-      "id": 13,
+      "id": 19,
       "field": "Flutter",
       "projectTitle": "اسمعنى",
       "developmentDate": "2019/20/5",
@@ -777,91 +862,6 @@
         "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/%D8%A7%D8%B3%D9%85%D8%B9%D9%86%D9%89/7.jpg",
         "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/%D8%A7%D8%B3%D9%85%D8%B9%D9%86%D9%89/8.jpg",
         "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/%D8%A7%D8%B3%D9%85%D8%B9%D9%86%D9%89/9.jpg"
-      ]
-    },
-    {
-      "id": 14,
-      "field": "Data Analysis",
-      "projectTitle": "Hospital Revenue Analysis",
-      "developmentDate": "2023/10/2",
-      "description": "A Dashboard about a hospital that have many branches and wants to analise the occupation of it's rooms over the year, and also to take care about the rating of every branch according to it's occupation.",
-      "gitHubLink": null,
-      "playStoreLink": null,
-      "imagesUrls": [
-        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Data%20Analysis/Hospital%20Revenue%20Analysis%201.png",
-        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Data%20Analysis/Hospital%20Revenue%20Analysis%202.png"
-      ]
-    },
-    {
-      "id": 15,
-      "field": "Data Analysis",
-      "projectTitle": "Hr Analytics",
-      "developmentDate": "2023/11/22",
-      "description": "A Dashboard made for an hr to see the percentage of employees who prefers to work from home and how prefers to work onsite, also to keep track on the rate of sick leave (during the corona virus period).",
-      "gitHubLink": null,
-      "playStoreLink": null,
-      "imagesUrls": [
-        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Data%20Analysis/Hr%20Analytics%201.png",
-        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Data%20Analysis/Hr%20Analytics%202.png",
-        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Data%20Analysis/Hr%20Analytics%203.png",
-        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Data%20Analysis/Hr%20Analytics%204.png"
-      ]
-    },
-    {
-      "id": 16,
-      "field": "Data Analysis",
-      "projectTitle": "Olympic Games Analysis",
-      "developmentDate": "2023/10/10",
-      "description": "A dashboard about the olympic games from 1896 to 2016 where the number of competitors is counted, total number of medals over the years, number of medals grouped by sport and categorized by type of medal, a bar char that displays the number of medals that each athlete toke.",
-      "gitHubLink": null,
-      "playStoreLink": null,
-      "imagesUrls": [
-        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Data%20Analysis/Olympic%20Games%20Analysis%202.png",
-        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Data%20Analysis/Olympic%20Games%20Analysis%201.png",
-        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Data%20Analysis/Olympic%20Games%20Analysis%203.png"
-      ]
-    },
-    {
-      "id": 17,
-      "field": "Data Analysis",
-      "projectTitle": "Pizza Sales Report",
-      "developmentDate": "2023/11/11",
-      "description": "A dashboard using Power Bi, the dashboard is for a pizza store so by interacting with the dashboard the stackholders can find the most  & least sold items, their amounts, total revenue and some more things that can help them take decisions.",
-      "gitHubLink": null,
-      "playStoreLink": null,
-      "imagesUrls": [
-        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Data%20Analysis/Pizza%20Sales%20Report%201.png",
-        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Data%20Analysis/Pizza%20Sales%20Report%202.png",
-        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Data%20Analysis/Pizza%20Sales%20Report%203.png",
-        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Data%20Analysis/Pizza%20Sales%20Report%204.png",
-        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Data%20Analysis/Pizza%20Sales%20Report%205.png"
-      ]
-    },
-    {
-      "id": 18,
-      "field": "Data Analysis",
-      "projectTitle": "Data Professional Survey",
-      "developmentDate": "2023/12/1",
-      "description": "A dashboard using Power Bi, made on a data collected from the people working in the data fields visualising their countries, their average age, their average rate of happiness, and the jobs with the highest salaries.",
-      "gitHubLink": null,
-      "playStoreLink": null,
-      "imagesUrls": [
-        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Data%20Analysis/Data%20Professional%20Survey%201.png",
-        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Data%20Analysis/Data%20Professional%20Survey%202.png"
-      ]
-    },
-    {
-      "id": 19,
-      "field": "Flutter",
-      "projectTitle": "Notes App",
-      "developmentDate": "",
-      "description": "A Simple Notes App, I took the design of the app from one of the courses that I learned.",
-      "gitHubLink": null,
-      "playStoreLink": null,
-      "imagesUrls": [
-        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Notes%20App/1.jpg",
-        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Notes%20App/2.jpg",
-        "https://raw.githubusercontent.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/main/Notes%20App/3.jpg"
       ]
     },
     {
@@ -884,8 +884,7 @@
         "https://github.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/blob/main/%D8%A7%D9%84%D9%85%D8%B3%D9%84%D9%85%20%D8%A7%D9%84%D9%85%D8%AB%D9%82%D9%81/9.jpg",
         "https://github.com/Seif-El-Deen/My-Projects-Sample-Run-Optimized-PNG/blob/main/%D8%A7%D9%84%D9%85%D8%B3%D9%84%D9%85%20%D8%A7%D9%84%D9%85%D8%AB%D9%82%D9%81/10.jpg"
       ]
-    }
-  ,
+    },
     {
       "id": 21,
       "field": "Flutter",
